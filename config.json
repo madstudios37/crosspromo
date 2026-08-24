@@ -3,7 +3,7 @@
     {
       "appId": "com.gamespanda.Archery.Bowmistress.tinyarchers.queen.bowmasters",
       "title": "EliteStrike",
-      "iconUrl": "https://raw.githubusercontent.com/yourname/cross-promo-config/main/icons/game1.png",
+      "iconUrl": "https://github.com/madstudios37/crosspromo/blob/50ba78b75292fcf495dcd112ec050eb837455c8e/icons/elitestrike.png?raw=true",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.EliteStikeForce.shootingelite.elite.shooter.SWAT.Assault.Killer.gunfire",
       "iosUrl": "itms-apps://itunes.apple.com/app/id111111111",
       "enabled": true
@@ -11,8 +11,8 @@
     {
       "appId": "com.gamespanda.Archery.Bowmistress.tinyarchers.queen.bowmasters",
       "title": "brickbreaker",
-      "iconUrl": "https://raw.githubusercontent.com/yourname/cross-promo-config/main/icons/game2.png",
-      "androidUrl": "market://details?id=com.yourstudio.game2",
+      "iconUrl": "https://github.com/madstudios37/crosspromo/blob/50ba78b75292fcf495dcd112ec050eb837455c8e/icons/brickbreaker.png?raw=true",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.heligames.gunship.helicopter.shooting.gunshipbattle",
       "iosUrl": "itms-apps://itunes.apple.com/app/id222222222",
       "enabled": true
     }
