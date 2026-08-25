@@ -4,16 +4,14 @@
       "appId": "com.EliteStikeForce.shootingelite.elite.shooter.SWAT.Assault.Killer.gunfire",
       "title": "EliteStrike",
       "iconUrl": "https://raw.githubusercontent.com/madstudios37/crosspromo/50ba78b75292fcf495dcd112ec050eb837455c8e/icons/elitestrike.png",
-      "androidUrl": "https://play.google.com/store/apps/details?id=com.EliteStikeForce.shootingelite.elite.shooter.SWAT.Assault.Killer.gunfire",
-      "iosUrl": "itms-apps://itunes.apple.com/app/id111111111",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.EliteStikeForce.shootingelite.elite.shooter.SWAT.Assault.Killer.gunfire",
       "enabled": true
     },
     {
       "appId": "com.heligames.gunship.helicopter.shooting.gunshipbattle",
       "title": "brickbreaker",
       "iconUrl": "https://raw.githubusercontent.com/madstudios37/crosspromo/50ba78b75292fcf495dcd112ec050eb837455c8e/icons/brickbreaker.png",
-      "androidUrl": "https://play.google.com/store/apps/details?id=com.heligames.gunship.helicopter.shooting.gunshipbattle",
-      "iosUrl": "itms-apps://itunes.apple.com/app/id222222222",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.heligames.gunship.helicopter.shooting.gunshipbattle",
       "enabled": true
     }
   ]
