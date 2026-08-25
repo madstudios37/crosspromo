@@ -6,6 +6,7 @@
       "iconUrl": "https://raw.githubusercontent.com/madstudios37/crosspromo/50ba78b75292fcf495dcd112ec050eb837455c8e/icons/elitestrike.png",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.EliteStikeForce.shootingelite.elite.shooter.SWAT.Assault.Killer.gunfire",
       "enabled": true
+      "version": 1
     },
     {
       "appId": "com.heligames.gunship.helicopter.shooting.gunshipbattle",
@@ -13,6 +14,7 @@
       "iconUrl": "https://raw.githubusercontent.com/madstudios37/crosspromo/50ba78b75292fcf495dcd112ec050eb837455c8e/icons/brickbreaker.png",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.heligames.gunship.helicopter.shooting.gunshipbattle",
       "enabled": true
+      "version": 1
     }
   ]
 }
